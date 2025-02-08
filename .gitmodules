@@ -8,8 +8,8 @@
 	url = https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86
 [submodule "kernel_source"]
 	path = kernel_source
-	branch = master
-	url = https://github.com/mKenfenheuer/realmeX2Pro-kernel-source.git
+	branch = kinesis-extremev5
+	url = https://github.com/clarencelol/kernel_xiaomi_sm6250.git
 [submodule "tools/prebuilts"]
 	path = tools/prebuilts
 	branch = android-9.0.0_r53
